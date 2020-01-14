@@ -28,11 +28,11 @@ test_output <-
                   data_folder = "data_input")
 ```
 
-And we access the output like this.  Note that the `rmarkdown::paged_table()` is only for display purposes in HTML format.
+And we access the output like this. 
 
 ```{r}
-test_output$output_data %>% rmarkdown::paged_table()
-test_output$output_check %>% rmarkdown::paged_table()
+test_output$output_data %>% head()
+test_output$output_check %>% head()
 test_output$output_message
 ```
 
