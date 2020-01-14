@@ -9,7 +9,7 @@ output:
 
 
 
-# Testing the Function
+## Load the Function
 
 Load the function with the `source()` command, where the string is the path of the `function.R` script.  
 
@@ -17,7 +17,10 @@ Load the function with the `source()` command, where the string is the path of t
 source("r/function.R")
 ```
 
-Then we run a test with the function.
+
+## Test the Function
+
+Then we run a test with the function.  In your case, it might be better to include a full filepath instead of just the folder name.  Remember that in R, filepaths must either have a single forward slash `/` or have two backslashes `\\`, because a single backslash `\` won't work.
 
 
 ```r
@@ -27,7 +30,9 @@ test_output <-
                   data_folder = "data_input")
 ```
 
-And we access the output like this. 
+## Access the Output
+
+And we access the output like this. Ignore the ` %>% head()`, because this is only for display purposes.
 
 
 ```r

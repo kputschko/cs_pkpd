@@ -369,16 +369,22 @@ summary {
 </div>
 
 
-<div id="testing-the-function" class="section level1">
-<h1>Testing the Function</h1>
+<div id="load-the-function" class="section level2">
+<h2>Load the Function</h2>
 <p>Load the function with the <code>source()</code> command, where the string is the path of the <code>function.R</code> script.</p>
 <pre class="r"><code>source(&quot;r/function.R&quot;)</code></pre>
-<p>Then we run a test with the function.</p>
+</div>
+<div id="test-the-function" class="section level2">
+<h2>Test the Function</h2>
+<p>Then we run a test with the function. In your case, it might be better to include a full filepath instead of just the folder name. Remember that in R, filepaths must either have a single forward slash <code>/</code> or have two backslashes <code>\\</code>, because a single backslash <code>\</code> won’t work.</p>
 <pre class="r"><code>test_output &lt;-
   fx_file_mapping(file_map = &quot;mapping/mapping1.csv&quot;,
                   join_keys = c(&quot;STUDYID&quot;, &quot;USUBJID&quot;, &quot;DOMAIN&quot;),
                   data_folder = &quot;data_input&quot;)</code></pre>
-<p>And we access the output like this.</p>
+</div>
+<div id="access-the-output" class="section level2">
+<h2>Access the Output</h2>
+<p>And we access the output like this. Ignore the <code>%&gt;% head()</code>, because this is only for display purposes.</p>
 <pre class="r"><code>test_output$output_data %&gt;% head()</code></pre>
 <pre><code>## # A tibble: 6 x 10
 ##   CPROJ  GINV INV           GEOC      ID      PIPV   VST GEN         ORIG  AMT  
