@@ -1,0 +1,38 @@
+---
+title: "Experis - PKPD Development"
+author: "Kevin Putschko"
+date: "1/14/2020"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(DT)
+```
+
+# Testing the Function
+
+Load the function with the `source()` command, where the string is the path of the `function.R` script.  
+```{r source}
+source("r/function.R")
+```
+
+Then we run a test with the function.
+
+```{r test-1}
+test_output <-
+  fx_file_mapping(file_map = "mapping/mapping1.csv",
+                  join_keys = c("STUDYID", "USUBJID", "DOMAIN"),
+                  data_folder = "data_input")
+```
+
+And we access the output like this.  Note that the `rmarkdown::paged_table()` is only for display purposes in HTML format.
+
+```{r}
+test_output$output_data %>% rmarkdown::paged_table()
+test_output$output_check %>% rmarkdown::paged_table()
+test_output$output_message
+```
+

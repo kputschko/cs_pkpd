@@ -1,0 +1,12 @@
+Input Variable,Output Variable,DataType,Formula,
+DOMAIN,CPROJ,Char,decoded value of the last 4 characters of the variable DM.STUDYID,
+USUBJID,GINV,Num,Populated with the value of the variable DM.INVID,
+RFSTDTC,INV,Num,Populated with the value of the variable DM.SITEID,
+RFXSTDTC,GEOC,Num,Geographic Country Code translated using 2-byte number substitution.Populated with the decoded value of the variable DM. COUNTRY.,
+RFICDTC,ID,Num,Populated with the value of the variable DM.SUBJID.,
+DTHDTC,PIPV,Num,None Provided,
+DTHFL,VST,Num,Populated with the value of the variable SV.VISITNUM.,
+AGE,GEN,Char,Populated with the decoded value of the variable DM.SEX.,
+SEX,ORIG,Num,Populated with the decoded value of the variable DM.RACE.,
+ETHNIC,AMT,Num,Derived.,
+

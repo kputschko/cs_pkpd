@@ -1,0 +1,5 @@
+STUDYID,DOMAIN,VISITNUM,VISIT,VISITDY,ARMCD,TVSTRL
+CDISC01,TV,1,SCREEN,-13,,Start of Screening
+CDISC01,TV,2,BASELINE,1,,Start of Baseline Assessments
+CDISC01,TV,3,WEEK 2,15,,End of week 2 treatment
+CDISC01,TV,10,WEEK 24,169,,End of treatment

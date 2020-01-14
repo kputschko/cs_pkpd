@@ -1,0 +1,64 @@
+STUDYID,RDOMAIN,USUBJID,IDVAR,IDVARVAL,QNAM,QLABEL,QVAL,QORIG,QEVAL
+CDISC01,AE,CDISC01.100008,AESEQ,1,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.100008,AESEQ,1,HLGT,Higher Level Group Term,Anxiety disorders and symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100008,AESEQ,1,HLT,Higher Level Term,Anxiety symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100008,AESEQ,1,LLT,Lowest Level Term,Agitation,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100008,AESEQ,2,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.100008,AESEQ,2,HLGT,Higher Level Group Term,Anxiety disorders and symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100008,AESEQ,2,HLT,Higher Level Term,Anxiety symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100008,AESEQ,2,LLT,Lowest Level Term,Anxiety,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100008,AESEQ,3,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.100008,AESEQ,3,HLGT,Higher Level Group Term,Appetite and general nutritional disorders,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100008,AESEQ,3,HLT,Higher Level Term,Appetite disorders,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100008,AESEQ,3,LLT,Lowest Level Term,Decreased appetite,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,1,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.100014,AESEQ,1,HLGT,Higher Level Group Term,Gastrointestinal motility and defaecation conditions,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,1,HLT,Higher Level Term,Diarrhoea (excl infective),Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,1,LLT,Lowest Level Term,Diarrhea,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,2,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.100014,AESEQ,2,HLGT,Higher Level Group Term,Gastrointestinal vascular conditions,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,2,HLT,Higher Level Term,Haemorrhoids and gastrointestinal varices (excl oesophageal),Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,2,LLT,Lowest Level Term,Hemorrhoids,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,3,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.100014,AESEQ,3,HLGT,Higher Level Group Term,Headaches,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,3,HLT,Higher Level Term,Headaches NEC,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,3,LLT,Lowest Level Term,Headache,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,4,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.100014,AESEQ,4,HLGT,Higher Level Group Term,Gastrointestinal signs and symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,4,HLT,Higher Level Term,Nausea and vomiting symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,4,LLT,Lowest Level Term,Vomiting,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,5,HLGT,Higher Level Group Term,Gastrointestinal signs and symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,5,HLT,Higher Level Term,Nausea and vomiting symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.100014,AESEQ,5,LLT,Lowest Level Term,Vomiting,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,1,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.200001,AESEQ,1,HLGT,Higher Level Group Term,Anxiety disorders and symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,1,HLT,Higher Level Term,Anxiety symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,1,LLT,Lowest Level Term,Anxiety,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,2,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.200001,AESEQ,2,HLGT,Higher Level Group Term,Joint disorders,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,2,HLT,Higher Level Term,Joint related signs and symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,2,LLT,Lowest Level Term,Knee pain,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,3,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.200001,AESEQ,3,HLGT,Higher Level Group Term,Gastrointestinal motility and defaecation conditions,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,3,HLT,Higher Level Term,Gastrointestinal atonic and hypomotility disorders NEC,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,3,LLT,Lowest Level Term,Constipation,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,4,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.200001,AESEQ,4,HLGT,Higher Level Group Term,General system disorders NEC,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,4,HLT,Higher Level Term,Asthenic conditions,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,4,LLT,Lowest Level Term,Fatigue,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,5,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.200001,AESEQ,5,HLGT,Higher Level Group Term,Gastrointestinal signs and symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,5,HLT,Higher Level Term,Nausea and vomiting symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200001,AESEQ,5,LLT,Lowest Level Term,Nausea,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,1,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.200002,AESEQ,1,HLGT,Higher Level Group Term,Neurological disorders NEC,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,1,HLT,Higher Level Term,Neurological signs and symptoms NEC,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,1,LLT,Lowest Level Term,Lightheadedness,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,2,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.200002,AESEQ,2,HLGT,Higher Level Group Term,Muscle disorders,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,2,HLT,Higher Level Term,Muscle related signs and symptoms NEC,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,2,LLT,Lowest Level Term,Muscle spasms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,3,AETRTEM,Treatment Emergent Flag,Y,Derived,
+CDISC01,AE,CDISC01.200002,AESEQ,3,HLGT,Higher Level Group Term,Cardiac disorder signs and symptoms,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,3,HLT,Higher Level Term,Cardiac signs and symptoms NEC,Assigned,CLINICAL STUDY SPONSOR
+CDISC01,AE,CDISC01.200002,AESEQ,3,LLT,Lowest Level Term,Palpitations,Assigned,CLINICAL STUDY SPONSOR

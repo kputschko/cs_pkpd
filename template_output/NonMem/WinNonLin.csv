@@ -1,0 +1,11 @@
+Variable,Label,DataType,Length,Formula,Comments
+CPROJ,CPROJ,Char,16,None,Study Code with NONMEM Commented Records.Derived.
+GINV,GINV,Num,12,None,Global Investigator Number.
+INV,INV,Num,12,None,Clinical Investigator Number.
+GEOC,GEOC,Num,10,None,Geographic Country Code Derived
+ID,ID,Num,16,None,Subject Identifier
+PIPV,PIPV,Num,16,None,Unique Patient Identifier.Initially created for analysis investigation.Variable not used this study analysis.
+VST,VST,Num,16,None,Visit Number.Drived
+GEN,GEN,Char,2,None,Gender
+ORIG,ORIG,Num,16,None,Origin
+AMT,AMT,Num,16,None,Total Amount of active drug (ug).
